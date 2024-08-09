@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=whatmanhere&label=Profile%20views&color=0e75b6&style=flat" alt="dynwsg" />
 </p>
 
-- 🎉 I am currently working on [Solaris](https://discord,gg/getsolaris)
+- 🎉 I am currently working on [Solaris](https://discord.gg/getsolaris)
 - 📫 How to reach me: **whatman@dumps.lol**
 
 <h3>Connect with me:</h3>

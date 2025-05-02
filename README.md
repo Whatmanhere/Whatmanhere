@@ -10,7 +10,7 @@
 
 <h3>Connect with me:</h3>
 <p>
-  <a href="https://discord.com/users/1108451044540821591" target="_blank">
+  <a href="https://discord.com/users/1187774454298853528" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" height="40" width="40" />
   </a>
 </p>

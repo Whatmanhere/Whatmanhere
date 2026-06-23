@@ -1,6 +1,5 @@
 <h1>Hello, Im virtualtable💯</h1>
-<h3>I am a reverse engineer and security developer from Germany.</h3>
-<h3>My Account virtualtable got Termed! zvirtualtable is the only one</h3>
+<h3>I am a reverse engineer and security developer.</h3>
 <p>
   <img src="https://komarev.com/ghpvc/?username=virtualtable&label=Profile%20views&color=0e75b6&style=flat" alt="vtable" />
 </p>
